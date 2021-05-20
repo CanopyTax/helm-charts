@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  canopy-common:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2021-05-20T23:08:28.952328826Z"
+    description: Common things in our charts.
+    digest: d12bb9bd70dd14a2504c9aae7e5e61870dd492b7cfa6be07380d044b4c263859
+    keywords:
+    - canopy
+    - common
+    name: canopy-common
+    type: library
+    urls:
+    - https://github.com/CanopyTax/helm-charts/releases/download/canopy-common-0.0.2/canopy-common-0.0.2.tgz
+    version: 0.0.2
+generated: "2021-05-20T23:08:28.952336826Z"
