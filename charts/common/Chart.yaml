@@ -1,0 +1,10 @@
+name: canopy-common
+apiVersion: v2
+# app version and version should be the same
+appVersion: 0.0.1
+version: 0.0.1
+description: Common things in our charts.
+keywords:
+  - canopy
+  - common
+type: library
