@@ -11,10 +11,4 @@ squad: {{ .Values.deployment.squad }}
 {{- if .Values.deployment.stack }}
 stack: {{ .Values.deployment.stack }}
 {{- end }}
-{{- if .Values.deployment.web }}
-web: {{ .Values.deployment.web | quote }}
-{{- end }}
-{{- if .Values.deployment.worker }}
-worker {{ .Values.deployment.worker | quote }}
-{{- end }}
 {{- end -}}
