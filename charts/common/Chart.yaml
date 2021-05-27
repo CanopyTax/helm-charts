@@ -1,8 +1,8 @@
 name: canopy-common
 apiVersion: v2
 # app version and version should be the same
-appVersion: 0.0.3
-version: 0.0.3
+appVersion: 0.0.4
+version: 0.0.4
 description: Common things in our charts.
 keywords:
   - canopy
